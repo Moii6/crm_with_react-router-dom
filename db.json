@@ -1,0 +1,41 @@
+{
+  "clientes": [
+    {
+      "nombre": "Ana Karen",
+      "empresa": "Bosh",
+      "email": "karen_nuevo@juan.com",
+      "telefono": "138198313",
+      "notas": "Notas",
+      "id": 2
+    },
+    {
+      "id": 4,
+      "nombre": "Josue",
+      "telefono": 319381983,
+      "email": "Josue@juan.com",
+      "empresa": "IBM de Mexico"
+    },
+    {
+      "id": 5,
+      "nombre": "Miguel",
+      "telefono": 1398198938,
+      "email": "Miguel@juan.com",
+      "empresa": "Capgemini"
+    },
+    {
+      "nombre": "Pedro",
+      "empresa": "AMDOCS ",
+      "email": "Pedro@correo.com",
+      "telefono": 10901,
+      "id": 6
+    },
+    {
+      "nombre": "Alek Manuel",
+      "empresa": "amdocs",
+      "email": "correo@gmail.com",
+      "telefono": "123321123",
+      "notas": "notas de niño de 4 años",
+      "id": 7
+    }
+  ]
+}
